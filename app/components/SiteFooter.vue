@@ -32,7 +32,7 @@
       </n-p>
       <n-p depth="3">
         Copyright &copy; 2020 - {{ new Date().getFullYear() }}
-        <n-text depth="3" @click="jumpLink(linkData.home)"> IMSYY </n-text>
+        <n-text depth="3" @click="jumpLink(linkData.home)"> Deep-sea </n-text>
         <n-text
           v-if="siteIcp"
           depth="3"
@@ -50,9 +50,9 @@ const { public: configPublic } = useRuntimeConfig();
 const { siteIcp, version } = configPublic;
 
 const linkData = {
-  github: "https://github.com/imsyy/site-status",
-  home: "https://www.imsyy.top",
-  email: "mailto:one@imsyy.top",
+  github: "https://github.com/deep-sea-lab",
+  home: "https://www.deep-sea.us.kg",
+  email: "mailto:lcx1029lcx1029@dingtalk.com",
 };
 </script>
 
