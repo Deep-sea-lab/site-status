@@ -51,7 +51,7 @@ const { siteIcp, version } = configPublic;
 
 const linkData = {
   github: "https://github.com/deep-sea-lab",
-  home: "https://www.deep-sea.dpdns.org",
+  home: "https://www.deep-sea.filegear-sg.me",
   email: "mailto:lcx1029lcx1029@dingtalk.com",
 };
 </script>
